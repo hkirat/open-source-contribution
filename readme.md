@@ -30,6 +30,6 @@ Are you new to the world of open source but eager to make your mark? Look no fur
 Feel free to customize and adapt this content to suit the specific needs and tone of your repository. Happy contributing! 🚀
 
 
--- ## sir this very good saar , i will put this in rezume sarr . 
--- me is phull stack dev saar , me will getz naukri saar ,foss ssaar 
+-- ## sir this is very good sir , i will put this in my resume sir . 
+-- I am full stack dev sir , me will getz naukri saar ,foss ssaar 
 -- i eat link kernal with foss milk very morning 
